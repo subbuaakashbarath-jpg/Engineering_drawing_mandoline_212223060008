@@ -44,10 +44,6 @@ Tools Required: Saw, Drill, Measuring tape, Pencil, Chisel, Hammer, Metal file, 
 
 The following photographs show the actual constructed wooden mandoline from different angles, demonstrating the structural design, blade position and adjustment mechanism.
 
-#  Top View	Side Rail & Wing Nut View
-<img width="1204" height="1600" alt="fafac578-36f3-44d4-865e-a760b4ee091e" src="https://github.com/user-attachments/assets/1af04823-2ce7-49c9-a9a8-7afb6bcf64e2" />
-<img width="1204" height="1600" alt="78eab2bb-ef4e-4455-80d9-b8ff836ed8c7" src="https://github.com/user-attachments/assets/3753d7b6-f688-4e7b-8f00-aa4607c12803" />
-
 Dimensions Summary (approximate)
 Overall Length: 15 inches (including handle)
 Overall Width: 4.5 inches
@@ -60,8 +56,10 @@ Blade Gap (adjustable): 0.1 to 0.4 inches
 
 The following photographs represent the actual assembled wooden mandoline. The first image shows the complete slicer laid flat with the handled plate, the steel blade and the front plate between the two side rails. The second image shows the separate holder block used to push the vegetable safely across the blade.
 
-<img width="1204" height="1600" alt="bd38940e-7d93-4a26-bc67-08fb1dd225e3" src="https://github.com/user-attachments/assets/de7e6dc0-97db-40f2-aab0-1d41eeee9549" />
-<img width="1204" height="1600" alt="538aa0d6-0f20-4cae-a475-93a4f286fba0" src="https://github.com/user-attachments/assets/9cf111f8-ea85-4715-b2ca-aeef04fb2c62" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/89988f28-0d91-43ef-b24d-2b5b7c34ee3f" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/eb47ccee-7238-4079-99a4-93404cde0fba" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/92f2278d-6365-451d-a7ce-7cad15e55f88" />
+
 
 Construction Features Visible
 Two wooden plates separated by a narrow gap that holds the steel blade
