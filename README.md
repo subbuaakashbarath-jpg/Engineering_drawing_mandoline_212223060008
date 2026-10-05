@@ -2,7 +2,7 @@
 
 # Wooden Mandoline Slicer - Design & Construction Guide
 
-Name: Nambi Aakash V Registration No: 212223060180
+Name: Nambi Aakash A Registration No: 212223060180
 
 # Table of Contents
 Introduction
